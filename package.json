@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "moment-timezone": "^0.5.26",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.4"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.27",
+    "@types/moment-timezone": "^0.5.12",
+    "@types/validator": "^10.11.3"
+  }
+}
