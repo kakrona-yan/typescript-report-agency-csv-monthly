@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "mysql2": "^1.7.0",
     "sequelize": "^5.18.4"
   },
